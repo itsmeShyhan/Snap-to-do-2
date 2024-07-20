@@ -1,0 +1,106 @@
+/* body {
+  background-image: url('./assets/Images/background.jpg');
+  background-size: cover;
+}
+
+h1, div {
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#enterTask {
+  display: flexbox;
+  flex-direction: row;
+}
+
+
+input {
+  width: 250px;
+  height: 30px;
+  margin-right: 20px;
+  padding: 4px;
+}
+
+#addBtn {
+  padding: 8px;
+  color: white;
+  background-color: yellowgreen;
+  font-size: 18px;
+}
+
+#addBtn:hover {
+  background-color: black;
+}
+
+ol {
+  padding: 0;
+}
+
+.list {
+  border: 2px solid white;
+  background-color: black;
+  margin-bottom: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width:100%;
+  touch-action: none;
+  
+}
+
+#task {
+  flex: 1;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+#moveUp, #moveDown, #deleteBtn{
+  margin-left: 10px;
+  padding: 6px;
+
+}
+
+#moveUp:hover, #moveDown:hover, #deleteBtn:hover{
+  background-color: rgba(58, 58, 198, 0.547);
+  color: white;
+}
+
+
+.scrollArea {
+  min-width: 100px;
+  min-height: 300px;
+  background-color: bisque;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+} */
+
+h1 {
+  text-align: center;
+}
+
+
+#enterTask {
+  display: flex;
+  flex-direction: row;
+}
+
+.list {
+  background-color: #D6C3C9;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 7px 4px 5px;
+}
+
+.scrollArea {
+  background-color: #4F6272;
+  padding: 1%;
+}
